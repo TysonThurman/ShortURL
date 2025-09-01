@@ -1,0 +1,16 @@
+{
+  "name": "shorturl",
+  "version": "1.0.0",
+  "description": "URL Shortener Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyson Thurman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "redis": "^5.8.2",
+    "uuid": "^11.1.0"
+  }
+}
